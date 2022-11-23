@@ -2,11 +2,13 @@
 
 API REST feita em Spring Boot permite enviar e baixar arquivos.
 
-Configurações prévias
+## Configurações prévias
 
 Para executar esse projeto, é necessário que seu sistema contenha a seguinte instalação:
 
 1. JDK versão 17 ou superior.
+
+## Endpoints
 
 |Método|Rota| Funcionalidade| Acesso |
 |:-------:|:-----:|:------:|:------:|
